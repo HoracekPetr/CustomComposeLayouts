@@ -89,7 +89,7 @@ leading = {
         modifier = Modifier
             .size(108.dp)
             .padding(12.dp),
-        painter = painterResource(R.drawable.rb),
+        painter = painterResource(R.drawable.sideeye_cat),
         contentDescription = null,
         contentScale = ContentScale.Crop
     )
